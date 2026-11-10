@@ -1,0 +1,3 @@
+# Records are fixed width and run.sh checks their length, so every file
+# must keep LF line endings, including on a Windows checkout.
+* text eol=lf
