@@ -86,7 +86,7 @@ Measured with GnuCOBOL 3.1.2 on Ubuntu 22.04. It has not been run on a mainframe
 | Automated tests | 142 passed |
 | Random datasets against a separate Python recalculation | 400 of 400 identical |
 | Killed at every file operation, then restarted | 8,838 restarts, all byte-identical to an unbroken run |
-| Real `kill -9` on 20,000 accounts | 548 kills, 0 wrong results |
+| Real `kill -9` on 20,000 accounts | 556 kills, 0 wrong results |
 | Planted bugs caught by the tests | 84 of 95 |
 
 ## Roadmap
